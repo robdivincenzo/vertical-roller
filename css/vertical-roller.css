@@ -1,0 +1,31 @@
+.rolled-image {
+	width: 80px;
+	height: 80px;
+	background-color:black;
+	margin-bottom: 10px;
+	display: block;
+}
+
+.rolled-gallery {
+	height: 200px;
+	overflow: hidden;
+}
+
+.vertical-roller {
+	width: 80px
+}
+.rolled-button {
+	width: 30px;
+	height: 30px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.roll-up {
+	background: transparent url('../images/scroll-arrows.png') no-repeat -5px -5px;
+}
+
+.roll-down {
+	background: transparent url('../images/scroll-arrows.png') no-repeat -5px -40px;
+}
